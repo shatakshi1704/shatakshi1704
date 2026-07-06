@@ -26,10 +26,10 @@
 
 <br/>
 
-<h2>🛠️ Tech Stack & Tools</h2>
-<p align="left">
-  <!-- 20 Icons set to exactly 10 per line -->
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,tailwind,mongodb,mysql,postgres,bash,git,github,vscode,postman,vercel,html,css,ts,docker,aws&theme=dark&perline=10" alt="Skills Icons" />
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+  <!-- Center aligned and width increased to 85% for bigger, evenly spread icons -->
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,tailwind,mongodb,mysql,postgres,bash,git,github,vscode,postman,vercel,html,css,ts,docker,aws&theme=dark&perline=10" alt="Skills Icons" width="85%" />
 </p>
 
 <br/>
