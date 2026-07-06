@@ -28,7 +28,8 @@
 
 <h2>🛠️ Tech Stack & Tools</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,postgresql,typescript,git,github,vscode,postman,vercel,html,css&theme=dark" alt="Skills Icons" />
+  <!-- 20 Icons set to exactly 10 per line -->
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,tailwind,mongodb,mysql,postgres,bash,git,github,vscode,postman,vercel,html,css,ts,docker,aws&theme=dark&perline=10" alt="Skills Icons" />
 </p>
 
 <br/>
