@@ -56,14 +56,6 @@
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/shatakshi1704">
-    <img src="https://github-readme-stats.vercel.app/api?username=shatakshi1704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/shatakshi1704">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi1704&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshi1704&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
