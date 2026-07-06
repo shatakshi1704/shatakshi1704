@@ -55,23 +55,15 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shatakshi1704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi1704&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Cache-busting &v=1 added at the end -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shatakshi1704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi1704&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshi1704&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
-
-<br/>
-
-<h2>🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shatakshi1704&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="shatakshi1704 trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshi1704&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&v=1" width="100%" alt="Contribution Graph"/>
 </p>
 
 <br/>
