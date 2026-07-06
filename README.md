@@ -36,11 +36,12 @@
 
 <h2 align="center">🚀 Coding Profiles</h2>
 <p align="center">
-  <a href="https://leetcode.com/u/shatakshisinha/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
+  
   <a href="https://www.geeksforgeeks.org/profile/shatakshisinha/">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://leetcode.com/u/shatakshisinha/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/This_Is_Amazing">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
