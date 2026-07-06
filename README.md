@@ -35,11 +35,13 @@
 <br/>
 
 <h2 align="center">🚀 Coding Profiles</h2>
+
 <p align="center">
-  <p align="center">
   <!-- Fetched directly from your portfolio -->
   <img src="https://shatakshi-sinha-two.vercel.app/heatgraph1.png" alt="LeetCode Activity Heatmap" width="85%" style="border-radius: 10px;" />
 </p>
+
+<p align="center">
   <a href="https://www.geeksforgeeks.org/profile/shatakshisinha/">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
