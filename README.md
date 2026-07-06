@@ -19,8 +19,8 @@
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
       <br/>
-      <!-- Working Girly Lofi Coder GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="300" alt="Female Coder GIF"/>
+      <!-- UPLOAD KI GAYI PHOTO YAHAN DIKHEGI -->
+      <img src="among-us-coder.png" width="350" style="border-radius: 10px;" alt="Female Coder with Among Us"/>
     </td>
   </tr>
 </table>
