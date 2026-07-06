@@ -14,7 +14,6 @@
         <li>⚙️ <b>Focus:</b> Software Development, Algorithmic Optimization, and System Architecture.</li>
         <li>🌱 <b>Passionate:</b> Building robust, efficient systems that bridge the gap between complex logic and scalable architecture.</li>
         <li>🎮 <b>Beyond the screen:</b> I'm an avid <i>Among Us</i> player who thrives on team strategy and competitive deduction!</li>
-        <li>📫 Reach me at: <b>shatakshi1704@gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
