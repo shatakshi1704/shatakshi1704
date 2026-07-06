@@ -7,9 +7,8 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <!-- LEFT COLUMN -->
     <td width="60%" valign="top" style="border: none;">
-      <h3>👩‍💻 About Me</h3>
+      <h2>👩‍💻 About Me</h2>
       <p>I am an engineering student dedicated to <b>bridging advanced logic and clean code</b> to solve real-world technical challenges at scale. I thrive on tackling difficult algorithmic problems and refining my technical craft.</p>
       <ul>
         <li>⚙️ <b>Focus:</b> Software Development, Algorithmic Optimization, and System Architecture.</li>
@@ -18,11 +17,9 @@
         <li>📫 Reach me at: <b>shatakshi1704@gmail.com</b></li>
       </ul>
     </td>
-
-    <!-- RIGHT COLUMN -->
     <td width="40%" valign="top" align="center" style="border: none;">
-      <!-- Cute, Likeness-Matched Female Coder GIF -->
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" style="border-radius: 10px;" alt="Female Coder GIF"/>
+      <br/>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" style="border-radius: 10px;" alt="Female Coder GIF"/>
     </td>
   </tr>
 </table>
