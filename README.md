@@ -48,7 +48,7 @@
   <a href="https://leetcode.com/u/shatakshisinha/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/This_Is_Amazing">
+  <a href="/">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
